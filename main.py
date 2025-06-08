@@ -4,7 +4,7 @@ import openai
 app = Flask(__name__)
 
 # Directly set your API key here (not secure for production!)
-openai.api_key = "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"
+openai.api_key = "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"
 openai.api_base = "https://openrouter.ai/api/v1"  # only if you use openrouter
 
 @app.route('/')
