@@ -1,4 +1,4 @@
-# 🤖 ChatBot API
+# 🤖 ChatBot
 
 A simple Python-based chatbot API built with Flask and deployed on Render.
 
