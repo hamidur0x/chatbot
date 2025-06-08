@@ -1,12 +1,11 @@
 from flask import Flask, request, jsonify, render_template
 import openai
-import os
 
 app = Flask(__name__)
 
-# Load API key from environment variable
-openai.api_key = os.environ.get("OPENAI_API_KEY")
-openai.api_base = os.environ.get("OPENAI_API_BASE", "https://openrouter.ai/api/v1")  # optional override
+# Directly set your API key here (not secure for production!)
+openai.api_key = "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"
+openai.api_base = "https://openrouter.ai/api/v1"  # only if you use openrouter
 
 @app.route('/')
 def index():
