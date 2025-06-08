@@ -63,38 +63,6 @@ python main.py
 \`\`\`
 
 By default, the app runs on \`http://127.0.0.1:5000\`.
-
----
-
-## 📡 API Usage
-
-### Endpoint
-\`\`\`
-POST /api/chat
-\`\`\`
-
-### Request Body (JSON)
-\`\`\`json
-{
-  "message": "Hello"
-}
-\`\`\`
-
-### Response (JSON)
-\`\`\`json
-{
-  "response": "You said: Hello"
-}
-\`\`\`
-
-Test it using [Postman](https://www.postman.com/) or \`curl\`:
-
-\`\`\`bash
-curl -X POST https://chatbot-j596.onrender.com/api/chat \
-  -H "Content-Type: application/json" \
-  -d '{"message": "Hello"}'
-\`\`\`
-
 ---
 
 ## 🛠 Deployment (on Render)
