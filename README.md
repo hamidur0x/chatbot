@@ -12,6 +12,7 @@ A simple Python-based chatbot built with Flask and deployed on Render.
 - Returns bot-generated responses
 - Lightweight and beginner-friendly
 - Deployed on [Render](https://render.com)
+- Get the API key on[OpenRouter](https://openrouter.ai/settings/keys)
 
 ---
 
