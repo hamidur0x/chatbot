@@ -28,13 +28,13 @@ A simple Python-based chatbot built with Flask and deployed on Render.
 
 ## 📁 Project Structure
 
-\`\`\`
+```
 chatbot/
 ├── main.py
 ├── requirements.txt
 ├── Procfile
 └── README.md
-\`\`\`
+```
 
 ---
 
