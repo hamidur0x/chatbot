@@ -5,6 +5,17 @@ A simple Python-based chatbot built with Flask and deployed on Render.
 🌐 **Live URL**: [Chatbot Link](https://chat-bot-5i8n.onrender.com)
 
 ---
+## 🚀 How to Run
+```bash
+git clone https://github.com/hamidur0x/chatbot.git
+```
+```bash
+cd chatbot
+```
+```bash
+pip install openai
+```
+
 
 ## 📝 Features
 
