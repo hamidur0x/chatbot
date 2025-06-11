@@ -19,7 +19,7 @@ pip install Flask
 ```bash
 python main.py
 ```
-
+**Maybe your machine need to create and activate virtual environment before installing the pip**
 
 ## 📝 Features
 
