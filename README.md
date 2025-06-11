@@ -14,6 +14,10 @@ cd chatbot
 ```
 ```bash
 pip install openai
+pip install Flask
+```
+```bash
+python main.py
 ```
 
 
