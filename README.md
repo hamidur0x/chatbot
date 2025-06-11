@@ -57,26 +57,26 @@ chatbot/
 ## ⚙️ Installation & Running Locally
 
 1. **Clone the repo**
-\`\`\`bash
+```bash
 git clone https://github.com/hamidur0x/chatbot.git
 cd chatbot
-\`\`\`
+```
 
 2. **Create a virtual environment**
-\`\`\`bash
+```bash
 python -m venv venv
 source venv/bin/activate
-\`\`\`
+```
 
 3. **Install dependencies**
-\`\`\`bash
+```bash
 pip install -r requirements.txt
-\`\`\`
+```
 
 4. **Run the app**
-\`\`\`bash
+```bash
 python main.py
-\`\`\`
+```
 
 By default, the app runs on \`http://127.0.0.1:5000\`.
 ---
